@@ -1,4 +1,4 @@
-# Snapshot of CA Dept. of Education SAT, ACT, AP Test Results Page
+# Snapshot of U.S. State Department Social Media Directory
 
 See the mirror at: http://wgetsnaps.github.io/state.gov--socialmedia
 
